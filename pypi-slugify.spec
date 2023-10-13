@@ -4,7 +4,7 @@
 #
 Name     : pypi-slugify
 Version  : 0.0.1
-Release  : 3
+Release  : 4
 URL      : https://files.pythonhosted.org/packages/7b/89/fbb7391d777b60c82d4e1376bb181b98e75adf506b3f7ffe837eca64570b/slugify-0.0.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/7b/89/fbb7391d777b60c82d4e1376bb181b98e75adf506b3f7ffe837eca64570b/slugify-0.0.1.tar.gz
 Summary  : A generic slugifier.
